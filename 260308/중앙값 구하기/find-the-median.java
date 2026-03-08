@@ -22,9 +22,9 @@ public class Main {
             if(c>b){
                 System.out.print(b);
             }else if(c>a){
-                System.out.print(a);
-            }else{
                 System.out.print(c);
+            }else{
+                System.out.print(a);
             }
         }
     }
